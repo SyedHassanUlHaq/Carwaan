@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209088849809",
+    "project_id": "carawaan-9a972",
+    "storage_bucket": "carawaan-9a972.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209088849809:android:48f5455ba84230c78e9c30",
+        "android_client_info": {
+          "package_name": "com.example.carwaan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnj2sD_LxKEgBMjlUJNdAIN2KT2vKLHuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
